@@ -1,0 +1,83 @@
+{"level":"info","message":"Fetched specialityname successfully","timestamp":"2023-09-05T09:32:01.464Z"}
+{"level":"info","message":"Fetched specialityname successfully","timestamp":"2023-09-05T09:47:45.666Z"}
+{"level":"info","message":"Fetched specialityname successfully","timestamp":"2023-09-05T10:44:51.600Z"}
+{"level":"info","message":"Fetched specialityname successfully","timestamp":"2023-09-05T10:45:02.468Z"}
+{"level":"info","message":" fetch procedures","timestamp":"2023-09-05T10:49:36.124Z"}
+{"level":"info","message":"Fetched specialityname successfully","timestamp":"2023-09-05T12:54:05.684Z"}
+{"level":"info","message":"Fetched specialityname successfully","timestamp":"2023-09-06T05:12:41.985Z"}
+{"level":"info","message":"Fetched specialityname successfully","timestamp":"2023-09-06T05:15:59.528Z"}
+{"level":"info","message":"Fetched specialityname successfully","timestamp":"2023-09-06T05:16:51.254Z"}
+{"level":"info","message":"Fetched specialityname successfully","timestamp":"2023-09-06T05:20:21.516Z"}
+{"level":"info","message":"Fetched specialityname successfully","timestamp":"2023-09-06T05:21:48.935Z"}
+{"level":"info","message":"Fetched specialityname successfully","timestamp":"2023-09-06T05:26:43.762Z"}
+{"level":"info","message":"Fetched specialityname successfully","timestamp":"2023-09-06T05:30:06.417Z"}
+{"level":"info","message":"Fetched specialityname successfully","timestamp":"2023-09-06T05:30:30.104Z"}
+{"level":"info","message":"Fetched specialityname successfully","timestamp":"2023-09-06T05:30:43.345Z"}
+{"level":"info","message":"Fetched specialityname successfully","timestamp":"2023-09-06T05:36:54.895Z"}
+{"level":"info","message":"Fetched specialityname successfully","timestamp":"2023-09-06T05:39:10.476Z"}
+{"level":"info","message":"Fetched specialityname successfully","timestamp":"2023-09-06T05:52:34.363Z"}
+{"level":"info","message":"Fetched specialityname successfully","timestamp":"2023-09-06T06:02:40.302Z"}
+{"level":"info","message":"Fetched specialityname successfully","timestamp":"2023-09-06T06:02:50.636Z"}
+{"level":"error","message":"Invalid password","timestamp":"2023-09-06T06:03:50.698Z"}
+{"level":"error","message":"Invalid password","timestamp":"2023-09-06T06:04:07.397Z"}
+{"level":"error","message":"Invalid password","timestamp":"2023-09-06T06:04:12.174Z"}
+{"level":"info","message":"Login successful","timestamp":"2023-09-06T06:04:21.552Z"}
+{"level":"info","message":"Sucess procedures","timestamp":"2023-09-06T06:04:22.204Z"}
+{"level":"info","message":"provider found","timestamp":"2023-09-06T06:04:32.899Z"}
+{"level":"info","message":"Doctor search successful","timestamp":"2023-09-06T06:05:12.718Z"}
+{"level":"info","message":"Doctor search successful","timestamp":"2023-09-06T06:05:20.314Z"}
+{"level":"info","message":"Sucess procedures","timestamp":"2023-09-06T06:05:25.294Z"}
+{"level":"info","message":"provider found","timestamp":"2023-09-06T06:06:47.749Z"}
+{"level":"info","message":"Sucess procedures","timestamp":"2023-09-06T06:07:14.911Z"}
+{"level":"info","message":"Doctor search successful","timestamp":"2023-09-06T06:07:22.447Z"}
+{"level":"info","message":" images: procedureResults ","timestamp":"2023-09-06T06:07:25.625Z"}
+{"level":"info","message":" images: procedureResults ","timestamp":"2023-09-06T06:07:25.746Z"}
+{"level":"info","message":"Doctor search successful","timestamp":"2023-09-06T06:08:53.925Z"}
+{"level":"info","message":"Doctor search successful","timestamp":"2023-09-06T06:08:57.326Z"}
+{"level":"info","message":"Sucess procedures","timestamp":"2023-09-06T06:09:03.584Z"}
+{"level":"info","message":"Doctor search successful","timestamp":"2023-09-06T06:09:09.046Z"}
+{"level":"info","message":"Sucess procedures","timestamp":"2023-09-06T06:09:24.183Z"}
+{"level":"info","message":"provider found","timestamp":"2023-09-06T06:09:35.884Z"}
+{"level":"info","message":"Fetched specialityname successfully","timestamp":"2023-09-06T06:09:57.781Z"}
+{"level":"info","message":"Fetched specialityname successfully","timestamp":"2023-09-06T06:12:26.647Z"}
+{"level":"info","message":"Fetched specialityname successfully","timestamp":"2023-09-06T06:15:44.032Z"}
+{"level":"error","message":"Invalid password","timestamp":"2023-09-06T06:16:52.257Z"}
+{"level":"error","message":"Invalid password","timestamp":"2023-09-06T06:17:01.024Z"}
+{"level":"info","message":"Login successful","timestamp":"2023-09-06T06:17:08.127Z"}
+{"level":"info","message":"Sucess procedures","timestamp":"2023-09-06T06:17:08.753Z"}
+{"level":"info","message":"Sucess procedures","timestamp":"2023-09-06T06:21:02.551Z"}
+{"level":"info","message":"Sucess procedures","timestamp":"2023-09-06T06:21:32.809Z"}
+{"level":"info","message":"Sucess procedures","timestamp":"2023-09-06T06:21:49.744Z"}
+{"level":"info","message":"Sucess procedures","timestamp":"2023-09-06T06:22:08.121Z"}
+{"level":"info","message":"Sucess procedures","timestamp":"2023-09-06T06:22:20.767Z"}
+{"level":"info","message":"Sucess procedures","timestamp":"2023-09-06T06:23:23.046Z"}
+{"level":"info","message":"Sucess procedures","timestamp":"2023-09-06T06:23:47.101Z"}
+{"level":"info","message":"Sucess procedures","timestamp":"2023-09-06T06:25:18.300Z"}
+{"level":"info","message":"Sucess procedures","timestamp":"2023-09-06T06:25:36.859Z"}
+{"level":"info","message":"Sucess procedures","timestamp":"2023-09-06T06:25:50.657Z"}
+{"level":"info","message":"Sucess procedures","timestamp":"2023-09-06T06:26:23.619Z"}
+{"level":"info","message":"Sucess procedures","timestamp":"2023-09-06T06:27:49.541Z"}
+{"level":"info","message":"Sucess procedures","timestamp":"2023-09-06T06:29:01.587Z"}
+{"level":"info","message":"Fetched specialityname successfully","timestamp":"2023-10-04T05:18:28.636Z"}
+{"level":"info","message":"Fetched specialityname successfully","timestamp":"2023-10-04T05:18:32.109Z"}
+{"level":"info","message":"Fetched specialityname successfully","timestamp":"2023-10-04T05:18:36.776Z"}
+{"level":"info","message":"Fetched specialityname successfully","timestamp":"2023-10-04T05:18:59.148Z"}
+{"level":"info","message":" fetch procedures","timestamp":"2023-10-04T05:19:03.397Z"}
+{"level":"info","message":"Fetched specialityname successfully","timestamp":"2023-10-04T05:19:18.681Z"}
+{"level":"info","message":"Fetched procedures successfully","timestamp":"2023-10-04T05:19:20.924Z"}
+{"level":"info","message":"Fetched City successfully","timestamp":"2023-10-04T05:19:24.607Z"}
+{"level":"info","message":"Fetched procedure successfully","timestamp":"2023-10-04T05:19:26.481Z"}
+{"level":"info","message":"Fetched specialityname successfully","timestamp":"2023-10-04T05:19:29.845Z"}
+{"level":"info","message":" fetch procedures","timestamp":"2023-10-04T05:20:54.418Z"}
+{"level":"info","message":"Fetched specialityname successfully","timestamp":"2023-10-04T05:21:31.211Z"}
+{"level":"info","message":" fetch procedures","timestamp":"2023-10-04T05:21:45.423Z"}
+{"level":"info","message":"Fetched specialityname successfully","timestamp":"2023-10-04T05:29:34.873Z"}
+{"level":"info","message":"Login successful","timestamp":"2023-10-04T05:32:18.041Z"}
+{"level":"info","message":"Patient found","timestamp":"2023-10-04T05:32:18.252Z"}
+{"level":"info","message":"Fetched specialityname successfully","timestamp":"2023-10-04T09:47:13.219Z"}
+{"level":"info","message":" fetch procedures","timestamp":"2023-10-04T09:47:17.523Z"}
+{"level":"info","message":"Fetched specialityname successfully","timestamp":"2023-10-04T09:53:23.309Z"}
+{"level":"info","message":"Fetched specialityname successfully","timestamp":"2023-10-06T04:53:16.998Z"}
+{"level":"info","message":" fetch procedures","timestamp":"2023-10-06T04:56:14.831Z"}
+{"level":"info","message":"Fetched specialityname successfully","timestamp":"2023-10-06T11:56:45.013Z"}
+{"level":"info","message":"Fetched procedures successfully","timestamp":"2023-10-06T11:56:45.984Z"}
